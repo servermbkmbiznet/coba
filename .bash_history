@@ -363,3 +363,560 @@ git add*
 git add
 git config --list
 git remote -v
+git remote
+git pull origin main
+git pull
+git checkout coba
+git init
+ssh -T git@github.com
+cat ~/.ssh/id_rsa.pub
+git config --global user.name "Ezraliano"
+git config --global user.email "322010018@student.machung.ac.id"
+git remote
+git pull origin main
+git stash
+git pull origin main
+git rm -r --cached.
+git rm -r --cached .
+git pull origin coba
+git pull origin main
+git remote -v
+git pull origin main
+git branch coba
+git branch
+git switch -c coba
+git remote add aku https://github.com/servermbkmbiznet/coba.git
+git remote -v
+git pull
+git switch coba
+git pull aku coba
+git pull ezra coba
+git pull origin coba
+git branch
+git remote -v
+git ls-remote --heads aku
+git pull aku coba_branch
+git fetch aku
+git pull aku main
+git pull aku coba
+chmod -R /var/www/html/files
+sudo rm -rf /var/cache/httpd/*
+systemctl status httpd
+sudo vi /etc/httpd/conf/httpd.conf
+git pull aku main
+git pull aku coba
+cd ..
+ls
+cd var/log
+ls
+nano boot.log
+nano yum.log
+sudo vi /etc/httpd/conf/httpd.conf
+hostname
+ls
+cd ..
+ls
+cd home
+ls
+cd
+host
+host 101.50.3.107
+i[ addr; ; ;;
+sudo vi /etc/httpd/conf/httpd.conf
+sudo nano /etc/php.ini
+ip addr
+cd /etc/sysconfig/network-scripts/
+ls
+vi ifcfg-venet0
+ip addr
+cd
+vi /etc/httpd/conf/httpd.conf
+cd ..
+ls
+cd etc
+ls
+cd httpd
+ls
+cd conf
+'ls
+ls
+l
+ls
+'
+ls
+cd httpd.conf
+vi httpd.conf
+cd
+nslookup
+httpd -v
+yum install bind bind-utils -y
+cd etc
+cd /etc
+vi /etc/named.conf
+vi /named/desakucur.sipengabdi.id.zone
+cd /named
+ls
+cd named
+ls
+cd desakucur.sipengabdi.id.zone
+sudo nano desakucur.sipengabdi.id.zone
+cd
+sudo nano /etc/named/3.50.101.rev
+systemctl enable named
+systemctl restart named
+systemctl status named.service
+cd /etc/named.conf
+sudo nano /etc/named.conf
+systemctl restart named
+sudo nano /etc/named.conf
+systemctl status named.service
+sudo nano /etc/named.conf
+systemctl status named.service
+sudo nano /etc/named.conf
+systemctl status named.service
+sudo nano /etc/named.conf
+systemctl restart named
+systemctl status named.service
+sudo nano /etc/named/107.3.50.zone
+cd etc
+cd ..
+cd etc
+ls
+cd named
+ls
+sudo nano /etc/named.conf
+systemctl restart named
+systemctl status named.service
+ls
+sudo nano /etc/named.conf
+nano 3.50.101.rev
+systemctl restart named
+systemctl status named.service
+sudo nano /etc/named.conf
+systemctl restart named
+nano /etc/resolv.conf
+cd
+nslookup desakucur.sipengabdi.id
+dig desakucur.sipengabdi.id
+ip a
+firewall-cmd --add-service=dns --permanent
+firewall-cmd --add-service=http --permanent
+firewall-cmd --reload
+sudo nano /etc/named.conf
+sudo nano /etc/named
+cd /etc/named
+ls
+nano 3.50.101.rev
+nano desakucur.sipengabdi.id.zone
+cd
+cd ..
+cd var
+ls
+cd log
+ls
+cd firewalld
+nano firewalld
+cd
+sudo systemctl status httpd
+sudo firewalld-cdm --list-all
+sudo firewalld-cmd --list-all
+sudo firewall-cmd --list-all
+sudo iptables -L
+cd ..
+cd etc
+ls
+cd httpd
+ls
+l
+ls
+nano conf.d
+cd conf.d
+ls
+sudo nano /etc/httpd/conf.d/site-available/
+nano default-site.conf
+nano default-site.confcd
+nano default-site.conf
+cd
+cd..
+cd ..
+ls
+cd
+nslookup
+nslookup desakucur.sipengabdi.id
+dig desakucur.sipengabdi.id
+chmod 777 -R /var/www/html/files
+..ls
+..cd
+ls ..
+cd ..
+ls
+cd var/www/
+ls
+cd html
+ls
+git pull
+git init
+git pull origin
+git pull master
+git remote add orgin https://github.com/IsraYehovaAsmaranda/SistemInformasiDesa.git
+git pull origin
+git pull
+git pull remote main
+git pull main
+git pull origin
+git pull
+git status
+chmod -R 777 /var/www/html/files
+chmod 777 -R  /var/www/html/files
+mysql -u root -p
+mysqldump -u root -p sid_mbkm > /var/lib/mysql/sid_mbkm_backup3.sql
+mysqldump -u root -p sid_mbkm > /var/lib/mysql/sid_mbkm.sql
+mysql -u root -p
+mysql -u root -p sid_mbkm < /var/lib/mysql/sid_mbkm_ba_9.sql
+mysql -u root -p
+mysql -u root -p sid_mbkm < /var/lib/mysql/sid_mbkm_ba_9.sql
+mysql -u root -p
+mysql -u root -p sid_mbkm < /var/lib/mysql/sid_mbkm_ba_10.sql
+mysql -u root -p sid_mbkm < /var/lib/mysql/sid_mbkm_ba_11.sql
+mysql -u root -p
+chmod 777 -R  /var/www/html/files
+chmod -R 777 /var/www/html/files
+ls /
+ls ..
+cd var/www
+cd var
+ls ..
+cd ..
+cd var/ww
+cd var/www
+ls
+mysql -u root -p
+mysql -u root -p sid_mbkm2 < sid_mbkm3.sql
+systemctl restart httpd
+chmod -R 777 /var/www/html/files
+cd /var/html/www
+cd ../var/html/www
+cd ..
+cd /var/html/www
+cd var/html/www
+cd var
+cd html
+ls
+cd www
+cd html
+ls
+git init
+git remote add origin https://github.com/IsraYehovaAsmaranda/SistemInformasiDesa.git
+git pull origin
+git pull origin main 
+git checkout origin
+git checkout main
+git reset --hard HEAD
+git reset --hard
+git pull origin main 
+git status
+git add .
+git commit -m "upload 11 des"
+git pull
+git pull origin main 
+git config pull.rebase
+git config pull.rebase false
+git pull origin main 
+git pull origin main --allow-unrelated-histories
+git merge --strategy=theirs origin/main
+git merge --strategy=theirs main
+git pull origin main --allow-unrelated-histories --strategy=theirs
+git reset --hard main
+git branch
+git reset --hard master
+git status
+git pull origin main --allow-unrelated-histories 
+git reset --hard HEAD
+git status
+git pull origin main 
+git fetch origin main
+git pull --rebase origin main 
+ls -a
+git clone origin main
+git init
+ls
+ls -a
+git remote add origin main https://github.com/IsraYehovaAsmaranda/SistemInformasiDesa.git
+git remote add origin -f https://github.com/IsraYehovaAsmaranda/SistemInformasiDesa.git
+git remote add origin -m https://github.com/IsraYehovaAsmaranda/SistemInformasiDesa.git
+git remote add -m origin https://github.com/IsraYehovaAsmaranda/SistemInformasiDesa.git
+git remote add -f origin https://github.com/IsraYehovaAsmaranda/SistemInformasiDesa.git
+git pull origin master
+git pull origin main
+git branch
+git status
+git add . 
+git commit -m "first commit"
+git pull origin main
+chmod -R 777 /var/www/html/files
+git pull origin main
+git pull
+git branch
+git pull origin main
+chmod -R 777 /var/www/html/files
+chmod 777 -R /var/www/html/files
+cd ..
+cd var/www/html
+git pull origin main
+git status
+git add . 
+git commit -m "mencoba pull kembali"
+git pull origin main
+git config pull.rebase false
+git pull origin main
+git reset --hard HEAD
+git pull origin main -f 
+git reset --hard HEAD
+git status
+git pull -f
+git pull origin master -r -m "mencoba pull lagi" 
+git pull origin master --all --force 
+git pull origin master --all--force 
+git pull origin master --force 
+git pull origin main --force 
+git reset --hard HEAD
+git pull
+git checkout main
+git pull
+git pull origin main
+git status
+git branch
+git branch -d master
+git branch -D master
+git status
+git pull origin main
+sytemctl restart httpd
+systemctl restart httpd
+mysqldump -u root -p sid_mbkm > /var/lib/mysql/sid_mbkm2.sql
+mysql -u root -p sid_mbkm < /var/lib/mysql/sid_mbkm_ba_12.sql
+mysql -u root -p
+chmod 777 -R /var/www/html/files
+chmod -R 777 /var/www/html/files
+mysql -u root -p
+mysql -u root -p
+mysql -u root -p < /var/lib/mysql/sid_mbkm_ba_13.sql
+mysql -u root -p sid_mbkm2 < /var/lib/mysql/sid_mbkm_ba_13.sql
+mysql -u root -p sid_mbkm < /var/lib/mysql/sid_mbkm_ba_13.sql
+mysql -u root -p
+mysql -u root -p sid_mbkm2 < /var/lib/mysql/sid_mbkm_ba_14.sql
+mysql -u root -p sid_mbkm2 < /var/lib/mysql/sid_mbkm_ba_12.sql
+mysql -u root -p sid_mbkm2 < /var/lib/mysql/sid_mbkm2.sql
+mysql -u root -p sid_mbkm2 < /var/lib/mysql/backup (1).sql
+mysql -u root -p sid_mbkm2 < /var/lib/mysql/backup_1.sql
+mysql -u root -p
+mysql -u root -p sid_mbkm2 < /var/lib/mysql/sid_mbkm_ba_12.sql
+mysql -u root -p
+mysql -u root -p sid_mbkm2 < /var/lib/mysql/sid_mbkm_ba_13.sql
+cd //
+cd ..
+ls'
+;
+'
+ls 
+cd /
+cd var/html
+cd var/www
+mysql -u root -p
+mysql -u root -p sid_mbkm2 < sid_mbkm4.sql;
+mysql -u root -p
+mysql -u root -p < sid_mbkm5;
+
+mysql -u root -p < sid_mbkm5.sql
+mysql -u root -p 
+mysql -u root -p sid_mbkm6.sql
+mysql -u root -p sid_mbkm4 <sid_mbkm6.sql
+truncate sid_mbkm4;
+use sid_mbkm4;
+use sid_mbkm4
+mysql -u root -p
+mysql -u root -p sid_mbkm4 < sid_mbkm6.sql
+mysql -u root -p
+mysql -u root -p sid_mbkm4 < sid_mbkm6.sql
+mysql -u root -p
+sudo vi /etc/named.conf
+cd /etc/named
+ls
+cd
+cd /etc
+cp named.conf named.conf.backup 
+vi /etc/named.conf
+vi /named/pemdeskucur.id.zone
+vi /etc/named.conf
+cd /named
+ls
+cd named
+ls
+vi  desakucur.sipengabdi.id.zone
+vi  3.50.101.rev
+systemctl enable named
+systemctl restart named
+cd
+vi /etc/resolv.conf
+nslookup pemdeskucur.id
+nslookup desakucur.sipengabdi.id.id
+dig pemdes.id
+vi /etc/httpd/conf.d
+cd etc
+cd ..
+cd etc
+cd httpd
+ls
+cd conf.d
+ls
+vi default-site.conf
+cd default-site.conf
+vi vhost.conf
+vi default-site.conf
+cd
+sudo systemctl restart httpd
+journalctl -xe | grep named
+systemctl status named.service
+nano /etc/sysconfig/network-scripts/
+ip a
+nano /etc/sysconfig/network-scripts/venet0
+ip addr
+cd ..
+cd etc
+ls
+cd sysconfig
+ls
+cd network-scripts
+ls
+vi ifcfg-venet0
+yum install -y bind bind-utils
+nano /etc/named.conf
+nano /var/named/db.pemdeskucur.id
+nano /var/named/db.3.50.101
+systemctl enabled named
+systemctl start named
+cd
+cd ..
+ls
+cd var
+ls
+nano /etc/named.conf
+nano /etc/named/db.pemdeskucur.id
+nano /etc/named/db.3.50.101
+systemctl start named
+systemctl status named.service
+nano /etc/named.conf
+systemctl status named.service
+nano /etc/named.conf
+systemctl status named.service
+nano /etc/named.conf
+systemctl status named.service
+nano /etc/named.conf
+nano /etc/named/pemdeskucur.id.zone
+nano /etc/named/3.50.101.rev
+systemctl enabled named
+systemctl enable named
+systemctl restart named
+systemctl status named
+systemctl restart named
+journalctl -xe
+systemctl restart named
+cat /var/log/messages | grep "named"
+check /var/log/messages
+/usr/sbin/named-checkconf
+/usr/sbin/named-checkconf /etc/named.conf
+systemctl restart named
+journalctl -xe
+nano /etc/named.conf
+udo vi /etc/named/named.conf.local
+sudo vi /etc/named/named.conf.local
+sudo named-checkconf
+nano /etc/named.conf
+sudo named-checkconf
+nano /etc/named.conf
+sudo named-checkconf
+nano /etc/named.conf
+sudo named-checkconf
+sudo named-checkzone nyc3.pemdeskucur.id /etc/named/pemdeskucur.id.zone
+sudo systemctl start named
+sudo systemctl enable named
+sudo chmod 755 /etc/named
+sudo vi /etc/named/named.conf.local
+sudo named-checkconf
+sudo systemctl start named
+sudo vi /etc/resolv.conf
+cd
+nslookup pemdeskucur.id
+sudo nano /etc/httpd/conf.d/pemdeskucur.id.conf
+sudo apachectl configtest
+sudo systemctl restart httpd
+sudo nano /etc/httpd/conf.d/pemdeskucur.id.conf
+sudo apachectl configtest
+sudo systemctl restart httpd
+sudo nano /etc/httpd/conf.d/pemdeskucur.id.conf
+sudo systemctl restart httpd
+sudo nano /etc/named.conf
+sudo mkdir /etc/named/zones
+sudo nano /etc/named/zones/pemdeskucur.id.zone
+sudo systemctl restart httpd
+sudo systemctl restart named
+systemctl status named.service
+sudo nano /etc/named/zones/pemdeskucur.id.zone
+sudo nano /etc/named.conf
+sudo systemctl restart named
+systemctl status named.service
+sudo apachectl configtest
+tail -f /var/log/http/error_log
+tail -f /var/log/httpd/error_log
+sudo nano /etc/named.conf
+sudo systemctl restart named
+systemctl status named.service
+sudo nano /etc/named/zones/pemdeskucur.id.zone
+sudo systemctl restart named
+systemctl status named.service
+sudo nano /etc/named/zones/pemdeskucur.id.zone
+sudo nano /etc/named/
+cd  /etc/named/
+ls
+nano pemdeskucur.id.zone
+sudo nano /etc/named/zones/pemdeskucur.id.zone
+systemctl status named.service
+sudo nano /etc/named.conf
+sudo nano /etc/named/zones/3.50.101
+ls
+nano db.3.50.101
+ls
+nano 3.50.101.rev
+sudo nano /etc/named/zones/3.50.101
+named-checkconf /etc/named.conf
+named-checkzone pemdeskucur.id /etc/named/zones/pemdeskucur.id
+cd ..
+cd named
+ls
+cd zones
+ls
+named-checkzone pemdeskucur.id /etc/named/zones/pemdeskucur.id.zone
+named-checkzone pemdeskucur.id /etc/named/zones/3.50.101
+systemctl start named
+systemctl enable named
+systemctl restart network
+dig pemdeskucur.id
+nslookup 101.50.3.107
+nslookup pemdeskucur.id
+nano /etc/resolv.conf
+nslookup 103.163.138.51
+nslookup  103.163.138.61
+ping www.pemdeskucur.id
+mysql -u root -p
+mysql -u root -p sid_mbkm2 < /var/lib/mysql/sid_mbkm_ba_14.sql
+mysql -u root -p
+mysql -u root -p sid_mbkm2 < /var/lib/mysql/sid_mbkm_ba_15.sql
+mysql -u root -p sid_mbkm2 < /var/lib/mysql/sid_mbkm_ba_16.sql
+mysql -u root -p
+mysql -u root -p sid_mbkm2 < /var/lib/mysql/sid_mbkm_ba_16.sql
+mysql -u root -p
+mysql -u root -p sid_mbkm4 < /var/lib/mysql/sid_mbkm_ba_16.sql
+mysql -u root -p
+chmod 777 -R /var/www/html/files
+yum list installed
+sudo yum install git
+git init
